@@ -1,0 +1,524 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab/
+$\\tau$-leaping Methods:	DiffEqTutorials.jl/html/models/03-diffeqbio_I_introduction.html	/^<h2><span class="math">$\\tau$<\/span>-leaping Methods:<\/h2>$/;"	i
+&#40;Optional&#41; Part 2: Alternative Dynamical Implmentations of Henon-Heiles &#40;B&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>&#40;Optional&#41; Part 2: Alternative Dynamical Implmentations of Henon-Heiles &#40;B&#41;</;"	i
+&#40;Optional&#41; Part 2: Alternative Dynamical Implmentations of Henon-Heiles &#40;B&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>&#40;Optional&#41; Part 2: Alternative Dynamical Implmentations of Henon-Heiles &#40;B&#41;</;"	i
+&#40;Optional&#41; Part 3: Specifying Analytical Jacobians &#40;I&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>&#40;Optional&#41; Part 3: Specifying Analytical Jacobians &#40;I&#41;<\/h2>$/;"	i
+&#40;Optional&#41; Part 3: Specifying Analytical Jacobians &#40;I&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>&#40;Optional&#41; Part 3: Specifying Analytical Jacobians &#40;I&#41;<\/h2>$/;"	i
+&#40;Optional&#41; Part 4: Automatic Symbolicification and Analytical Jacobian Calculations	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>&#40;Optional&#41; Part 4: Automatic Symbolicification and Analytical Jacobian Calculations</;"	i
+&#40;Optional&#41; Part 4: Automatic Symbolicification and Analytical Jacobian Calculations	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>&#40;Optional&#41; Part 4: Automatic Symbolicification and Analytical Jacobian Calculations</;"	i
+&#40;Optional&#41; Part 4: Structured Jacobians	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>&#40;Optional&#41; Part 4: Structured Jacobians<\/h2>$/;"	i
+&#40;Optional&#41; Part 4: Structured Jacobians	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>&#40;Optional&#41; Part 4: Structured Jacobians<\/h2>$/;"	i
+&#40;Optional&#41; Part 5: Automatic Symbolicification and Analytical Jacobian	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>&#40;Optional&#41; Part 5: Automatic Symbolicification and Analytical Jacobian<\/h2>$/;"	i
+&#40;Optional&#41; Part 5: Automatic Symbolicification and Analytical Jacobian	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>&#40;Optional&#41; Part 5: Automatic Symbolicification and Analytical Jacobian<\/h2>$/;"	i
+&#40;Optional&#41; Part 8: Using DiffEqBiological&#39;s Reaction Network DSL	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>&#40;Optional&#41; Part 8: Using DiffEqBiological&#39;s Reaction Network DSL<\/h2>$/;"	i
+&#40;Optional&#41; Part 8: Using DiffEqBiological&#39;s Reaction Network DSL	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>&#40;Optional&#41; Part 8: Using DiffEqBiological&#39;s Reaction Network DSL<\/h2>$/;"	i
+.button	DiffEqTutorials.jl/templates/skeleton_css.css	/^.button {$/;"	c
+.button	DiffEqTutorials.jl/templates/skeleton_css.css	/^.button,$/;"	c
+.button.button-primary	DiffEqTutorials.jl/templates/skeleton_css.css	/^.button.button-primary,$/;"	c
+.button.button-primary:focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^.button.button-primary:focus,$/;"	c
+.button.button-primary:hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^.button.button-primary:hover,$/;"	c
+.button:focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^.button:focus,$/;"	c
+.button:hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^.button:hover,$/;"	c
+.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .column,$/;"	c
+.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^.column,$/;"	c
+.column:first-child	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .column:first-child,$/;"	c
+.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .columns {$/;"	c
+.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^.columns {$/;"	c
+.columns:first-child	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .columns:first-child {$/;"	c
+.container	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .container {$/;"	c
+.container	DiffEqTutorials.jl/templates/skeleton_css.css	/^.container {$/;"	c
+.container:after	DiffEqTutorials.jl/templates/skeleton_css.css	/^.container:after,$/;"	c
+.eight.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .eight.columns                  { width: 65.3333333333%; }$/;"	c
+.eleven.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .eleven.columns                 { width: 91.3333333333%; }$/;"	c
+.five.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .five.columns                   { width: 39.3333333333%; }$/;"	c
+.four.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .four.columns                   { width: 30.6666666667%; }$/;"	c
+.nine.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .nine.columns                   { width: 74.0%;          }$/;"	c
+.offset-by-eight.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-eight.column,$/;"	c
+.offset-by-eight.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-eight.columns        { margin-left: 69.3333333333%; }$/;"	c
+.offset-by-eleven.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-eleven.column,$/;"	c
+.offset-by-eleven.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-eleven.columns       { margin-left: 95.3333333333%; }$/;"	c
+.offset-by-five.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-five.column,$/;"	c
+.offset-by-five.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-five.columns         { margin-left: 43.3333333333%; }$/;"	c
+.offset-by-four.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-four.column,$/;"	c
+.offset-by-four.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-four.columns         { margin-left: 34.6666666667%; }$/;"	c
+.offset-by-nine.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-nine.column,$/;"	c
+.offset-by-nine.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-nine.columns         { margin-left: 78.0%;          }$/;"	c
+.offset-by-one-half.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-one-half.column,$/;"	c
+.offset-by-one-half.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-one-half.columns     { margin-left: 52%; }$/;"	c
+.offset-by-one-third.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-one-third.column,$/;"	c
+.offset-by-one-third.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-one-third.columns    { margin-left: 34.6666666667%; }$/;"	c
+.offset-by-one.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-one.column,$/;"	c
+.offset-by-one.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-one.columns          { margin-left: 8.66666666667%; }$/;"	c
+.offset-by-seven.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-seven.column,$/;"	c
+.offset-by-seven.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-seven.columns        { margin-left: 60.6666666667%; }$/;"	c
+.offset-by-six.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-six.column,$/;"	c
+.offset-by-six.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-six.columns          { margin-left: 52%;            }$/;"	c
+.offset-by-ten.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-ten.column,$/;"	c
+.offset-by-ten.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-ten.columns          { margin-left: 86.6666666667%; }$/;"	c
+.offset-by-three.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-three.column,$/;"	c
+.offset-by-three.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-three.columns        { margin-left: 26%;            }$/;"	c
+.offset-by-two-thirds.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-two-thirds.column,$/;"	c
+.offset-by-two-thirds.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-two-thirds.columns   { margin-left: 69.3333333333%; }$/;"	c
+.offset-by-two.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-two.column,$/;"	c
+.offset-by-two.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .offset-by-two.columns          { margin-left: 17.3333333333%; }$/;"	c
+.one-half.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .one-half.column                { width: 48%; }$/;"	c
+.one-third.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .one-third.column               { width: 30.6666666667%; }$/;"	c
+.one.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .one.column,$/;"	c
+.one.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .one.columns                    { width: 4.66666666667%; }$/;"	c
+.row:after	DiffEqTutorials.jl/templates/skeleton_css.css	/^.row:after,$/;"	c
+.seven.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .seven.columns                  { width: 56.6666666667%; }$/;"	c
+.six.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .six.columns                    { width: 48%;            }$/;"	c
+.ten.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .ten.columns                    { width: 82.6666666667%; }$/;"	c
+.three.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .three.columns                  { width: 22%;            }$/;"	c
+.twelve.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .twelve.columns                 { width: 100%; margin-left: 0; }$/;"	c
+.two-thirds.column	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .two-thirds.column              { width: 65.3333333333%; }$/;"	c
+.two.columns	DiffEqTutorials.jl/templates/skeleton_css.css	/^  .two.columns                    { width: 13.3333333333%; }$/;"	c
+.u-cf	DiffEqTutorials.jl/templates/skeleton_css.css	/^.u-cf {$/;"	c
+.u-full-width	DiffEqTutorials.jl/templates/skeleton_css.css	/^.u-full-width {$/;"	c
+.u-max-full-width	DiffEqTutorials.jl/templates/skeleton_css.css	/^.u-max-full-width {$/;"	c
+.u-pull-left	DiffEqTutorials.jl/templates/skeleton_css.css	/^.u-pull-left {$/;"	c
+.u-pull-right	DiffEqTutorials.jl/templates/skeleton_css.css	/^.u-pull-right {$/;"	c
+Adding a Preconditioner	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Adding a Preconditioner<\/h3>$/;"	j
+An Implicit&#x2F;Explicit CUDA-Accelerated Solver for the 2D Beeler-Reuter Model	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^            <h1 class="title">An Implicit&#x2F;Explicit CUDA-Accelerated Solver for the 2D Beele/;"	h
+An Intro to DifferentialEquations.jl	DiffEqTutorials.jl/html/introduction/01-ode_introduction.html	/^            <h1 class="title">An Intro to DifferentialEquations.jl<\/h1>$/;"	h
+Analyzing the Solution	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^#### Analyzing the Solution$/;"	t
+Appendix	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/introduction/01-ode_introduction.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/introduction/02-choosing_algs.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/introduction/03-optimizing_diffeq_code.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/introduction/04-callbacks_and_events.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/introduction/05-formatting_plots.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/models/01-classical_physics.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/models/02-conditional_dosing.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/models/03-diffeqbio_I_introduction.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/models/04-diffeqbio_II_networkproperties.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/models/04b-diffeqbio_III_steadystates.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/models/05-kepler_problem.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/models/07-outer_solar_system.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/ode_extras/02-feagin.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/ode_extras/03-ode_minmax.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/ode_extras/04-monte_carlo_parameter_estim.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/test.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/type_handling/01-number_types.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/type_handling/02-uncertainties.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/html/type_handling/03-unitful.html	/^<div class="markdown"><h2>Appendix<\/h2>$/;"	i
+Appendix	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^## Appendix$/;"	s
+Appendix	DiffEqTutorials.jl/markdown/introduction/02-choosing_algs.md	/^## Appendix$/;"	s
+Appendix	DiffEqTutorials.jl/markdown/introduction/03-optimizing_diffeq_code.md	/^## Appendix$/;"	s
+Appendix	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^## Appendix$/;"	s
+Appendix	DiffEqTutorials.jl/markdown/introduction/05-formatting_plots.md	/^## Appendix$/;"	s
+Appendix	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^## Appendix$/;"	s
+Arbitrary amplitude	DiffEqTutorials.jl/html/type_handling/02-uncertainties.html	/^<h2>Arbitrary amplitude<\/h2>$/;"	i
+Automated Sparsity Detection	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<h3>Automated Sparsity Detection<\/h3>$/;"	j
+Automated Sparsity Detection	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^### Automated Sparsity Detection$/;"	S
+Automatic Derivation of Jacobian Functions	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Automatic Derivation of Jacobian Functions<\/h3>$/;"	j
+Automatic Sparsity Detection	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Automatic Sparsity Detection<\/h3>$/;"	j
+Automatically convert numerical codes to symbolic	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<h3>Automatically convert numerical codes to symbolic<\/h3>$/;"	j
+Automatically convert numerical codes to symbolic	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^### Automatically convert numerical codes to symbolic$/;"	S
+Background	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^          <h2>Background<\/h2>$/;"	i
+Background	DiffEqTutorials.jl/html/introduction/01-ode_introduction.html	/^<h3>Background<\/h3>$/;"	j
+Background	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^### Background$/;"	S
+Basic Introduction Via Ordinary Differential Equations	DiffEqTutorials.jl/html/introduction/01-ode_introduction.html	/^          <h2>Basic Introduction Via Ordinary Differential Equations<\/h2>$/;"	i
+Basic Introduction Via Ordinary Differential Equations	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^## Basic Introduction Via Ordinary Differential Equations$/;"	s
+Basic usage: defining differential equation systems, with performance!	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^### Basic usage: defining differential equation systems, with performance!$/;"	S
+Basic usage: defining differential equation systems, with performance&#33;	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<h3>Basic usage: defining differential equation systems, with performance&#33;<\/h3>$/;"	j
+Bayesian Inference on a Pendulum using Turing.jl	DiffEqTutorials.jl/html/models/06-pendulum_bayesian_inference.html	/^            <h1 class="title">Bayesian Inference on a Pendulum using Turing.jl<\/h1>$/;"	h
+Bifurcation diagrams for biochemical reaction networks	DiffEqTutorials.jl/html/models/04b-diffeqbio_III_steadystates.html	/^<h3>Bifurcation diagrams for biochemical reaction networks<\/h3>$/;"	j
+Bifurcation diagrams over two dimensions	DiffEqTutorials.jl/html/models/04b-diffeqbio_III_steadystates.html	/^<h3>Bifurcation diagrams over two dimensions<\/h3>$/;"	j
+But if the system is small we can optimize even more.	DiffEqTutorials.jl/markdown/introduction/03-optimizing_diffeq_code.md	/^#### But if the system is small we can optimize even more.$/;"	t
+CPU-Only Beeler-Reuter Solver	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h2>CPU-Only Beeler-Reuter Solver<\/h2>$/;"	i
+CPU/GPU Beeler-Reuter Solver	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h2>CPU\/GPU Beeler-Reuter Solver<\/h2>$/;"	i
+CUDA Kernels	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h3>CUDA Kernels<\/h3>$/;"	j
+Callback Library	DiffEqTutorials.jl/html/introduction/04-callbacks_and_events.html	/^<h2>Callback Library<\/h2>$/;"	i
+Callback Library	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^## Callback Library$/;"	s
+Callbacks and Events	DiffEqTutorials.jl/html/introduction/04-callbacks_and_events.html	/^            <h1 class="title">Callbacks and Events<\/h1>$/;"	h
+Caveat about Measurement type	DiffEqTutorials.jl/html/type_handling/02-uncertainties.html	/^<h2>Caveat about <code>Measurement<\/code> type<\/h2>$/;"	i
+Check Out the Speed FAQ	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Check Out the Speed FAQ<\/h3>$/;"	j
+Chemical Langevin Equation &#40;CLE&#41; Stochastic Differential Equation &#40;SDE&#41; Models:	DiffEqTutorials.jl/html/models/03-diffeqbio_I_introduction.html	/^<h2>Chemical Langevin Equation &#40;CLE&#41; Stochastic Differential Equation &#40;SDE&#41; Mode/;"	i
+Choosing Solver Algorithms	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^#### Choosing Solver Algorithms$/;"	t
+Choosing a Good Solver	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Choosing a Good Solver<\/h3>$/;"	j
+Choosing an ODE Algorithm	DiffEqTutorials.jl/html/introduction/02-choosing_algs.html	/^            <h1 class="title">Choosing an ODE Algorithm<\/h1>$/;"	h
+Classical Physics Models	DiffEqTutorials.jl/html/models/01-classical_physics.html	/^            <h1 class="title">Classical Physics Models<\/h1>$/;"	h
+Code Optimization for Differential Equations	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h2>Code Optimization for Differential Equations<\/h2>$/;"	i
+Comparison to other Software	DiffEqTutorials.jl/html/introduction/02-choosing_algs.html	/^<h2>Comparison to other Software<\/h2>$/;"	i
+Comparison to other Software	DiffEqTutorials.jl/markdown/introduction/02-choosing_algs.md	/^## Comparison to other Software$/;"	s
+Conclusion	DiffEqTutorials.jl/html/introduction/01-ode_introduction.html	/^<h2>Conclusion<\/h2>$/;"	i
+Conclusion	DiffEqTutorials.jl/html/introduction/03-optimizing_diffeq_code.html	/^<h2>Conclusion<\/h2>$/;"	i
+Conclusion	DiffEqTutorials.jl/html/models/05-kepler_problem.html	/^<h3>Conclusion<\/h3>$/;"	j
+Conclusion	DiffEqTutorials.jl/html/type_handling/01-number_types.html	/^<h2>Conclusion<\/h2>$/;"	i
+Conclusion	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^## Conclusion$/;"	s
+Conclusion	DiffEqTutorials.jl/markdown/introduction/03-optimizing_diffeq_code.md	/^## Conclusion$/;"	s
+Conditional Dosing Pharmacometric Example	DiffEqTutorials.jl/html/models/02-conditional_dosing.html	/^            <h1 class="title">Conditional Dosing Pharmacometric Example<\/h1>$/;"	h
+Contributing	DiffEqTutorials.jl/README.md	/^## Contributing$/;"	s
+Controlling the Solver	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^#### Controlling the Solver$/;"	t
+Convergence Test	DiffEqTutorials.jl/html/ode_extras/02-feagin.html	/^<h2>Convergence Test<\/h2>$/;"	i
+Create some dummy data to use for estimation	DiffEqTutorials.jl/html/models/06-pendulum_bayesian_inference.html	/^<h3>Create some dummy data to use for estimation<\/h3>$/;"	j
+Data	DiffEqTutorials.jl/html/models/07-outer_solar_system.html	/^          <h2>Data<\/h2>$/;"	i
+Declaring Color Vectors for Fast Construction	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Declaring Color Vectors for Fast Construction<\/h3>$/;"	j
+Declaring Jacobian Functions	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Declaring Jacobian Functions<\/h3>$/;"	j
+Declaring a Jacobian-Free Newton-Krylov Implementation	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Declaring a Jacobian-Free Newton-Krylov Implementation<\/h3>$/;"	j
+Declaring a Sparse Jacobian	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Declaring a Sparse Jacobian<\/h3>$/;"	j
+Defining Linear Solver Routines and Jacobian-Free Newton-Krylov	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h2>Defining Linear Solver Routines and Jacobian-Free Newton-Krylov<\/h2>$/;"	i
+Dependent Variables, Functions, Chain Rule	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<h3>Dependent Variables, Functions, Chain Rule<\/h3>$/;"	j
+Dependent Variables, Functions, Chain Rule	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^### Dependent Variables, Functions, Chain Rule$/;"	S
+Diagnosing Stiffness	DiffEqTutorials.jl/html/introduction/02-choosing_algs.html	/^<h2>Diagnosing Stiffness<\/h2>$/;"	i
+Diagnosing Stiffness	DiffEqTutorials.jl/markdown/introduction/02-choosing_algs.md	/^## Diagnosing Stiffness$/;"	s
+DiffEqBiological Tutorial I: Introduction	DiffEqTutorials.jl/html/models/03-diffeqbio_I_introduction.html	/^            <h1 class="title">DiffEqBiological Tutorial I: Introduction<\/h1>$/;"	h
+DiffEqBiological Tutorial II: Network Properties API	DiffEqTutorials.jl/html/models/04-diffeqbio_II_networkproperties.html	/^            <h1 class="title">DiffEqBiological Tutorial II: Network Properties API<\/h1>$/;"	h
+DiffEqBiological Tutorial III: Steady-States and Bifurcations	DiffEqTutorials.jl/html/models/04b-diffeqbio_III_steadystates.html	/^            <h1 class="title">DiffEqBiological Tutorial III: Steady-States and Bifurcations<\/h1/;"	h
+DiffEqTutorials.jl	DiffEqTutorials.jl/README.md	/^# DiffEqTutorials.jl$/;"	c
+DifferentialEquations	DiffEqTutorials.jl/CITATION.bib	/^@article{DifferentialEquations.jl-2017,$/;"	a
+DifferentialEquations.jl Workshop Exercise Solutions	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^            <h1 class="title">DifferentialEquations.jl Workshop Exercise Solutions<\/h1>$/;"	h
+DifferentialEquations.jl Workshop Exercises	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^            <h1 class="title">DifferentialEquations.jl Workshop Exercises<\/h1>$/;"	h
+Discrete Callbacks	DiffEqTutorials.jl/html/introduction/04-callbacks_and_events.html	/^<h2>Discrete Callbacks<\/h2>$/;"	i
+Discrete Callbacks	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^## Discrete Callbacks$/;"	s
+Double Pendulum	DiffEqTutorials.jl/html/models/01-classical_physics.html	/^<h3>Double Pendulum<\/h3>$/;"	j
+Events and Continuous Callbacks	DiffEqTutorials.jl/html/introduction/04-callbacks_and_events.html	/^<h2>Events and Continuous Callbacks<\/h2>$/;"	i
+Events and Continuous Callbacks	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^## Events and Continuous Callbacks$/;"	s
+Example	tutorial/dev/Example/docs/src/index.md	/^# Example$/;"	c
+Example Optimization: Gierer-Meinhardt Reaction-Diffusion PDE Discretization	DiffEqTutorials.jl/html/introduction/03-optimizing_diffeq_code.html	/^<h3>Example Optimization: Gierer-Meinhardt Reaction-Diffusion PDE Discretization<\/h3>$/;"	j
+Example Optimization: Gierer-Meinhardt Reaction-Diffusion PDE Discretization	DiffEqTutorials.jl/markdown/introduction/03-optimizing_diffeq_code.md	/^### Example Optimization: Gierer-Meinhardt Reaction-Diffusion PDE Discretization$/;"	S
+Example of Generating a Network Programmatically	DiffEqTutorials.jl/html/models/04-diffeqbio_II_networkproperties.html	/^<h2>Example of Generating a Network Programmatically<\/h2>$/;"	i
+Exercise 1	DiffEqTutorials.jl/markdown/introduction/03-optimizing_diffeq_code.md	/^#### Exercise 1$/;"	t
+Exercise 1	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^#### Exercise 1$/;"	t
+Exercise 2	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^#### Exercise 2$/;"	t
+Exercise 3	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^#### Exercise 3$/;"	t
+Extending Incrementally Generated Networks to Include ODEs, SDEs or Jumps	DiffEqTutorials.jl/html/models/04-diffeqbio_II_networkproperties.html	/^<h2>Extending Incrementally Generated Networks to Include ODEs, SDEs or Jumps<\/h2>$/;"	i
+Feagin&#39;s Order 10, 12, and 14 Methods	DiffEqTutorials.jl/html/ode_extras/02-feagin.html	/^            <h1 class="title">Feagin&#39;s Order 10, 12, and 14 Methods<\/h1>$/;"	h
+Finding Maxima and Minima of DiffEq Solutions	DiffEqTutorials.jl/html/ode_extras/03-ode_minmax.html	/^            <h1 class="title">Finding Maxima and Minima of DiffEq Solutions<\/h1>$/;"	h
+First Model: Exponential Growth	DiffEqTutorials.jl/html/introduction/01-ode_introduction.html	/^<h3>First Model: Exponential Growth<\/h3>$/;"	j
+First Model: Exponential Growth	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^### First Model: Exponential Growth$/;"	S
+Formatting Plots	DiffEqTutorials.jl/html/introduction/05-formatting_plots.html	/^            <h1 class="title">Formatting Plots<\/h1>$/;"	h
+GPUs and CUDA	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h3>GPUs and CUDA<\/h3>$/;"	j
+Getting Help	DiffEqTutorials.jl/html/models/03-diffeqbio_I_introduction.html	/^<h2>Getting Help<\/h2>$/;"	i
+Getting Help	DiffEqTutorials.jl/html/models/04-diffeqbio_II_networkproperties.html	/^<h2>Getting Help<\/h2>$/;"	i
+Getting Help	DiffEqTutorials.jl/html/models/04b-diffeqbio_III_steadystates.html	/^<h2>Getting Help<\/h2>$/;"	i
+Global Optimization	DiffEqTutorials.jl/html/ode_extras/03-ode_minmax.html	/^<h3>Global Optimization<\/h3>$/;"	j
+Hackability: Extend directly from the language	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<h3>Hackability: Extend directly from the language<\/h3>$/;"	j
+Hackability: Extend directly from the language	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^### Hackability: Extend directly from the language$/;"	S
+Hamiltonian System	DiffEqTutorials.jl/html/models/07-outer_solar_system.html	/^<h2>Hamiltonian System<\/h2>$/;"	i
+Handling Mass Matrices	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h2>Handling Mass Matrices<\/h2>$/;"	i
+Hénon-Heiles System	DiffEqTutorials.jl/html/models/01-classical_physics.html	/^<h2>Hénon-Heiles System<\/h2>$/;"	i
+Implicit Solver	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h3>Implicit Solver<\/h3>$/;"	j
+Incompatible Number Systems	DiffEqTutorials.jl/html/type_handling/01-number_types.html	/^<h2>Incompatible Number Systems<\/h2>$/;"	i
+Incremental Construction of Networks	DiffEqTutorials.jl/html/models/04-diffeqbio_II_networkproperties.html	/^<h2>Incremental Construction of Networks<\/h2>$/;"	i
+Integration Termination and Directional Handling	DiffEqTutorials.jl/html/introduction/04-callbacks_and_events.html	/^<h2>Integration Termination and Directional Handling<\/h2>$/;"	i
+Integration Termination and Directional Handling	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^## Integration Termination and Directional Handling$/;"	s
+Interactive Notebooks	DiffEqTutorials.jl/README.md	/^## Interactive Notebooks$/;"	s
+Interlude: Managing Allocations with Broadcast Fusion	DiffEqTutorials.jl/html/introduction/03-optimizing_diffeq_code.html	/^<h3>Interlude: Managing Allocations with Broadcast Fusion<\/h3>$/;"	j
+Interlude: Managing Allocations with Broadcast Fusion	DiffEqTutorials.jl/markdown/introduction/03-optimizing_diffeq_code.md	/^### Interlude: Managing Allocations with Broadcast Fusion$/;"	S
+Internal Types	DiffEqTutorials.jl/html/introduction/01-ode_introduction.html	/^<h2>Internal Types<\/h2>$/;"	i
+Internal Types	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^## Internal Types$/;"	s
+Investigation of the Method&#39;s Error	DiffEqTutorials.jl/html/ode_extras/02-feagin.html	/^<h2>Investigation of the Method&#39;s Error<\/h2>$/;"	i
+Kepler Problem	DiffEqTutorials.jl/html/models/05-kepler_problem.html	/^            <h1 class="title">Kepler Problem<\/h1>$/;"	h
+Laplacian	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h3>Laplacian<\/h3>$/;"	j
+Library of transformations on mathematical systems	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<h3>Library of transformations on mathematical systems<\/h3>$/;"	j
+Library of transformations on mathematical systems	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^### Library of transformations on mathematical systems$/;"	S
+Linear Algebra... for free?	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<h3>Linear Algebra... for free?<\/h3>$/;"	j
+Linear Algebra... for free?	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^### Linear Algebra... for free?$/;"	S
+Local Optimization	DiffEqTutorials.jl/html/ode_extras/03-ode_minmax.html	/^<h3>Local Optimization<\/h3>$/;"	j
+Manifold Projection	DiffEqTutorials.jl/html/introduction/04-callbacks_and_events.html	/^<h3>Manifold Projection<\/h3>$/;"	j
+Manifold Projection	DiffEqTutorials.jl/html/models/05-kepler_problem.html	/^<h2>Manifold Projection<\/h2>$/;"	i
+Manifold Projection	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^### Manifold Projection$/;"	S
+Merging Callbacks with Callback Sets	DiffEqTutorials.jl/html/introduction/04-callbacks_and_events.html	/^<h2>Merging Callbacks with Callback Sets<\/h2>$/;"	i
+Merging Callbacks with Callback Sets	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^## Merging Callbacks with Callback Sets$/;"	s
+ModelingToolkit is a compiler for mathematical systems	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<h3>ModelingToolkit is a compiler for mathematical systems<\/h3>$/;"	j
+ModelingToolkit is a compiler for mathematical systems	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^### ModelingToolkit is a compiler for mathematical systems$/;"	S
+ModelingToolkit.jl is metamodeling systemitized	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^#### ModelingToolkit.jl is metamodeling systemitized$/;"	t
+ModelingToolkit.jl, An IR and Compiler for Scientific Models	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^            <h1 class="title">ModelingToolkit.jl, An IR and Compiler for Scientific Models<\/h1>$/;"	h
+Monte Carlo Parameter Estimation From Data	DiffEqTutorials.jl/html/ode_extras/04-monte_carlo_parameter_estim.html	/^            <h1 class="title">Monte Carlo Parameter Estimation From Data<\/h1>$/;"	h
+Network Properties	DiffEqTutorials.jl/html/models/04-diffeqbio_II_networkproperties.html	/^<h2>Network Properties<\/h2>$/;"	i
+Numbers with Uncertainties	DiffEqTutorials.jl/html/type_handling/02-uncertainties.html	/^            <h1 class="title">Numbers with Uncertainties<\/h1>$/;"	h
+Optimizing DiffEq Code	DiffEqTutorials.jl/html/introduction/03-optimizing_diffeq_code.html	/^            <h1 class="title">Optimizing DiffEq Code<\/h1>$/;"	h
+Optimizing Large Systems	DiffEqTutorials.jl/html/introduction/03-optimizing_diffeq_code.html	/^<h2>Optimizing Large Systems<\/h2>$/;"	i
+Optimizing Large Systems	DiffEqTutorials.jl/markdown/introduction/03-optimizing_diffeq_code.md	/^## Optimizing Large Systems$/;"	s
+Optimizing Small Systems &#40;&lt;100 DEs&#41;	DiffEqTutorials.jl/html/introduction/03-optimizing_diffeq_code.html	/^<h2>Optimizing Small Systems &#40;&lt;100 DEs&#41;<\/h2>$/;"	i
+Optimizing Small Systems (<100 DEs)	DiffEqTutorials.jl/markdown/introduction/03-optimizing_diffeq_code.md	/^## Optimizing Small Systems (<100 DEs)$/;"	s
+Other Compatible Number Types	DiffEqTutorials.jl/html/type_handling/01-number_types.html	/^<h2>Other Compatible Number Types<\/h2>$/;"	i
+Part 10: Adjoint Sensitivity Analysis for Gradients of PDEs	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 10: Adjoint Sensitivity Analysis for Gradients of PDEs<\/h2>$/;"	i
+Part 10: Adjoint Sensitivity Analysis for Gradients of PDEs	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 10: Adjoint Sensitivity Analysis for Gradients of PDEs<\/h2>$/;"	i
+Part 1: Constructing and Training a Basic Neural ODE	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 1: Constructing and Training a Basic Neural ODE<\/h2>$/;"	i
+Part 1: Constructing and Training a Basic Neural ODE	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 1: Constructing and Training a Basic Neural ODE<\/h2>$/;"	i
+Part 1: Defining an ODE with Predetermined Doses	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 1: Defining an ODE with Predetermined Doses<\/h2>$/;"	i
+Part 1: Defining an ODE with Predetermined Doses	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 1: Defining an ODE with Predetermined Doses<\/h2>$/;"	i
+Part 1: Implementing the BRUSS PDE System as ODEs	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 1: Implementing the BRUSS PDE System as ODEs<\/h2>$/;"	i
+Part 1: Implementing the BRUSS PDE System as ODEs	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 1: Implementing the BRUSS PDE System as ODEs<\/h2>$/;"	i
+Part 1: Implementing the Henon-Heiles System &#40;B&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 1: Implementing the Henon-Heiles System &#40;B&#41;<\/h2>$/;"	i
+Part 1: Implementing the Henon-Heiles System &#40;B&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 1: Implementing the Henon-Heiles System &#40;B&#41;<\/h2>$/;"	i
+Part 1: Simple Introduction to DAEs: Mass-Matrix Robertson Equations	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 1: Simple Introduction to DAEs: Mass-Matrix Robertson Equations<\/h2>$/;"	i
+Part 1: Simple Introduction to DAEs: Mass-Matrix Robertson Equations	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 1: Simple Introduction to DAEs: Mass-Matrix Robertson Equations<\/h2>$/;"	i
+Part 1: Simulating the Oregonator ODE model	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 1: Simulating the Oregonator ODE model<\/h2>$/;"	i
+Part 1: Simulating the Oregonator ODE model	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 1: Simulating the Oregonator ODE model<\/h2>$/;"	i
+Part 2: Adding Delays	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 2: Adding Delays<\/h2>$/;"	i
+Part 2: Adding Delays	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 2: Adding Delays<\/h2>$/;"	i
+Part 2: GPU-accelerating the Neural ODE Process	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 2: GPU-accelerating the Neural ODE Process<\/h2>$/;"	i
+Part 2: GPU-accelerating the Neural ODE Process	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 2: GPU-accelerating the Neural ODE Process<\/h2>$/;"	i
+Part 2: Investigating Stiffness	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 2: Investigating Stiffness<\/h2>$/;"	i
+Part 2: Investigating Stiffness	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 2: Investigating Stiffness<\/h2>$/;"	i
+Part 2: Optimizing the BRUSS Code	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 2: Optimizing the BRUSS Code<\/h2>$/;"	i
+Part 2: Optimizing the BRUSS Code	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 2: Optimizing the BRUSS Code<\/h2>$/;"	i
+Part 2: Solving the Implicit Robertson Equations with IDA	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 2: Solving the Implicit Robertson Equations with IDA<\/h2>$/;"	i
+Part 2: Solving the Implicit Robertson Equations with IDA	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 2: Solving the Implicit Robertson Equations with IDA<\/h2>$/;"	i
+Part 3: Automatic Differentiation &#40;AD&#41; for Optimization &#40;I&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 3: Automatic Differentiation &#40;AD&#41; for Optimization &#40;I&#41;<\/h2>$/;"	i
+Part 3: Automatic Differentiation &#40;AD&#41; for Optimization &#40;I&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 3: Automatic Differentiation &#40;AD&#41; for Optimization &#40;I&#41;<\/h2>$/;"	i
+Part 3: Defining and Training a Mixed Neural ODE	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 3: Defining and Training a Mixed Neural ODE<\/h2>$/;"	i
+Part 3: Defining and Training a Mixed Neural ODE	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 3: Defining and Training a Mixed Neural ODE<\/h2>$/;"	i
+Part 3: Exploiting Jacobian Sparsity with Color Differentiation	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 3: Exploiting Jacobian Sparsity with Color Differentiation<\/h2>$/;"	i
+Part 3: Exploiting Jacobian Sparsity with Color Differentiation	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 3: Exploiting Jacobian Sparsity with Color Differentiation<\/h2>$/;"	i
+Part 3: Manual Index Reduction of the Single Pendulum	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 3: Manual Index Reduction of the Single Pendulum<\/h2>$/;"	i
+Part 3: Manual Index Reduction of the Single Pendulum	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 3: Manual Index Reduction of the Single Pendulum<\/h2>$/;"	i
+Part 3: Parallelized Ensemble Solving	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 3: Parallelized Ensemble Solving<\/h2>$/;"	i
+Part 3: Parallelized Ensemble Solving	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 3: Parallelized Ensemble Solving<\/h2>$/;"	i
+Part 4: Constructing a Basic Neural SDE	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 4: Constructing a Basic Neural SDE<\/h2>$/;"	i
+Part 4: Constructing a Basic Neural SDE	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 4: Constructing a Basic Neural SDE<\/h2>$/;"	i
+Part 4: Fitting Known Quantities with DiffEqParamEstim.jl &#43; Optim.jl	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 4: Fitting Known Quantities with DiffEqParamEstim.jl &#43; Optim.jl<\/h2>$/;"	i
+Part 4: Fitting Known Quantities with DiffEqParamEstim.jl &#43; Optim.jl	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 4: Fitting Known Quantities with DiffEqParamEstim.jl &#43; Optim.jl<\/h2>$/;"	i
+Part 4: Parallelized GPU Ensemble Solving	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 4: Parallelized GPU Ensemble Solving<\/h2>$/;"	i
+Part 4: Parallelized GPU Ensemble Solving	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 4: Parallelized GPU Ensemble Solving<\/h2>$/;"	i
+Part 4: Single Pendulum Solution with IDA	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 4: Single Pendulum Solution with IDA<\/h2>$/;"	i
+Part 4: Single Pendulum Solution with IDA	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 4: Single Pendulum Solution with IDA<\/h2>$/;"	i
+Part 5: Adding stochasticity with stochastic differential equations	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 5: Adding stochasticity with stochastic differential equations<\/h2>$/;"	i
+Part 5: Adding stochasticity with stochastic differential equations	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 5: Adding stochasticity with stochastic differential equations<\/h2>$/;"	i
+Part 5: Implementing Control-Based Logic with ContinuousCallbacks &#40;I&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 5: Implementing Control-Based Logic with ContinuousCallbacks &#40;I&#41;<\/h2>$/;"	i
+Part 5: Implementing Control-Based Logic with ContinuousCallbacks &#40;I&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 5: Implementing Control-Based Logic with ContinuousCallbacks &#40;I&#41;<\/h2>$/;"	i
+Part 5: Optimizing the training behavior with minibatching &#40;E&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 5: Optimizing the training behavior with minibatching &#40;E&#41;<\/h2>$/;"	i
+Part 5: Optimizing the training behavior with minibatching &#40;E&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 5: Optimizing the training behavior with minibatching &#40;E&#41;<\/h2>$/;"	i
+Part 5: Solving the Double Penulum DAE System	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 5: Solving the Double Penulum DAE System<\/h2>$/;"	i
+Part 5: Solving the Double Penulum DAE System	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 5: Solving the Double Penulum DAE System<\/h2>$/;"	i
+Part 6: Gillespie jump models of discrete stochasticity	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 6: Gillespie jump models of discrete stochasticity<\/h2>$/;"	i
+Part 6: Gillespie jump models of discrete stochasticity	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 6: Gillespie jump models of discrete stochasticity<\/h2>$/;"	i
+Part 6: Global Sensitivity Analysis with the Morris and Sobol Methods	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 6: Global Sensitivity Analysis with the Morris and Sobol Methods<\/h2>$/;"	i
+Part 6: Global Sensitivity Analysis with the Morris and Sobol Methods	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 6: Global Sensitivity Analysis with the Morris and Sobol Methods<\/h2>$/;"	i
+Part 6: Utilizing Preconditioned-GMRES Linear Solvers	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 6: Utilizing Preconditioned-GMRES Linear Solvers<\/h2>$/;"	i
+Part 6: Utilizing Preconditioned-GMRES Linear Solvers	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 6: Utilizing Preconditioned-GMRES Linear Solvers<\/h2>$/;"	i
+Part 7: Exploring IMEX and Exponential Integrator Techniques &#40;E&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 7: Exploring IMEX and Exponential Integrator Techniques &#40;E&#41;<\/h2>$/;"	i
+Part 7: Exploring IMEX and Exponential Integrator Techniques &#40;E&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 7: Exploring IMEX and Exponential Integrator Techniques &#40;E&#41;<\/h2>$/;"	i
+Part 7: Probabilistic Programming / Bayesian Parameter Estimation with DiffEqBayes.jl &#43; Turing.jl &#40;I&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 7: Probabilistic Programming \/ Bayesian Parameter Estimation with DiffEqBayes.jl &#43;/;"	i
+Part 7: Probabilistic Programming / Bayesian Parameter Estimation with DiffEqBayes.jl &#43; Turing.jl &#40;I&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 7: Probabilistic Programming \/ Bayesian Parameter Estimation with DiffEqBayes.jl &#43;/;"	i
+Part 8: Work-Precision Diagrams for Benchmarking Solver Choices	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 8: Work-Precision Diagrams for Benchmarking Solver Choices<\/h2>$/;"	i
+Part 8: Work-Precision Diagrams for Benchmarking Solver Choices	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 8: Work-Precision Diagrams for Benchmarking Solver Choices<\/h2>$/;"	i
+Part 9: GPU-Parallelism for PDEs &#40;E&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h2>Part 9: GPU-Parallelism for PDEs &#40;E&#41;<\/h2>$/;"	i
+Part 9: GPU-Parallelism for PDEs &#40;E&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h2>Part 9: GPU-Parallelism for PDEs &#40;E&#41;<\/h2>$/;"	i
+Perform Bayesian Estimation	DiffEqTutorials.jl/html/models/06-pendulum_bayesian_inference.html	/^<h3>Perform Bayesian Estimation<\/h3>$/;"	j
+Poincaré section	DiffEqTutorials.jl/html/models/01-classical_physics.html	/^<h3>Poincaré section<\/h3>$/;"	j
+Problem 1: Investigating Sources of Randomness and Uncertainty in a Biological System	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^          <h1>Problem 1: Investigating Sources of Randomness and Uncertainty in a Biological Sys/;"	h
+Problem 1: Investigating Sources of Randomness and Uncertainty in a Stiff Biological System &#40;B&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h1>Problem 1: Investigating Sources of Randomness and Uncertainty in a Stiff Biological System /;"	h
+Problem 2: Fitting Hybrid Delay Pharmacokinetic Models with Automated Responses &#40;B&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h1>Problem 2: Fitting Hybrid Delay Pharmacokinetic Models with Automated Responses &#40;B&#41;</;"	h
+Problem 2: Fitting Hybrid Delay Pharmacokinetic Models with Automated Responses &#40;B&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h1>Problem 2: Fitting Hybrid Delay Pharmacokinetic Models with Automated Responses &#40;B&#41;</;"	h
+Problem 3: Differential-Algebraic Equation Modeling of a Double Pendulum &#40;B&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h1>Problem 3: Differential-Algebraic Equation Modeling of a Double Pendulum &#40;B&#41;<\/h1>$/;"	h
+Problem 3: Differential-Algebraic Equation Modeling of a Double Pendulum &#40;B&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h1>Problem 3: Differential-Algebraic Equation Modeling of a Double Pendulum &#40;B&#41;<\/h1>$/;"	h
+Problem 4: Performance Optimizing and Parallelizing Semilinear PDE Solvers &#40;I&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h1>Problem 4: Performance Optimizing and Parallelizing Semilinear PDE Solvers &#40;I&#41;<\/h1>$/;"	h
+Problem 4: Performance Optimizing and Parallelizing Semilinear PDE Solvers &#40;I&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h1>Problem 4: Performance Optimizing and Parallelizing Semilinear PDE Solvers &#40;I&#41;<\/h1>$/;"	h
+Problem 5: Global Parameter Sensitivity and Optimality with GPU and Distributed Ensembles &#40;B&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h1>Problem 5: Global Parameter Sensitivity and Optimality with GPU and Distributed Ensembles &#/;"	h
+Problem 5: Global Parameter Sensitivity and Optimality with GPU and Distributed Ensembles &#40;B&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h1>Problem 5: Global Parameter Sensitivity and Optimality with GPU and Distributed Ensembles &#/;"	h
+Problem 6: Training Neural Stochastic Differential Equations with GPU acceleration &#40;I&#41;	DiffEqTutorials.jl/html/exercises/01-workshop_exercises.html	/^<h1>Problem 6: Training Neural Stochastic Differential Equations with GPU acceleration &#40;I&#4/;"	h
+Problem 6: Training Neural Stochastic Differential Equations with GPU acceleration &#40;I&#41;	DiffEqTutorials.jl/html/exercises/02-workshop_solutions.html	/^<h1>Problem 6: Training Neural Stochastic Differential Equations with GPU acceleration &#40;I&#4/;"	h
+Radioactive Decay of Carbon-14	DiffEqTutorials.jl/html/models/01-classical_physics.html	/^<h2>Radioactive Decay of Carbon-14<\/h2>$/;"	i
+Radioactive Decay of Carbon-14	DiffEqTutorials.jl/html/type_handling/02-uncertainties.html	/^<h2>Radioactive Decay of Carbon-14<\/h2>$/;"	i
+Results	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h3>Results<\/h3>$/;"	j
+SavingCallback	DiffEqTutorials.jl/html/introduction/04-callbacks_and_events.html	/^<h3>SavingCallback<\/h3>$/;"	j
+SavingCallback	DiffEqTutorials.jl/markdown/introduction/04-callbacks_and_events.md	/^### SavingCallback$/;"	S
+Set up simple pendulum problem	DiffEqTutorials.jl/html/models/06-pendulum_bayesian_inference.html	/^          <h3>Set up simple pendulum problem<\/h3>$/;"	j
+Setting Up Your Julia Installation for Speed	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Setting Up Your Julia Installation for Speed<\/h3>$/;"	j
+Setup	DiffEqTutorials.jl/html/ode_extras/03-ode_minmax.html	/^          <h3>Setup<\/h3>$/;"	j
+Simple Harmonic Oscillator	DiffEqTutorials.jl/html/models/01-classical_physics.html	/^<h2>Simple Harmonic Oscillator<\/h2>$/;"	i
+Simple Pendulum	DiffEqTutorials.jl/html/models/01-classical_physics.html	/^<h2>Simple Pendulum<\/h2>$/;"	i
+Simple pendulum	DiffEqTutorials.jl/html/type_handling/02-uncertainties.html	/^<h2>Simple pendulum<\/h2>$/;"	i
+Small angles approximation	DiffEqTutorials.jl/html/type_handling/02-uncertainties.html	/^<h3>Small angles approximation<\/h3>$/;"	j
+Solve the model and plot	DiffEqTutorials.jl/html/models/06-pendulum_bayesian_inference.html	/^<h3>Solve the model and plot<\/h3>$/;"	j
+Solving Equations in With Julia-Defined Types	DiffEqTutorials.jl/html/type_handling/01-number_types.html	/^            <h1 class="title">Solving Equations in With Julia-Defined Types<\/h1>$/;"	h
+Solving Nonlinear systems	DiffEqTutorials.jl/html/ode_extras/01-ModelingToolkit.html	/^<h3>Solving Nonlinear systems<\/h3>$/;"	j
+Solving Nonlinear systems	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^### Solving Nonlinear systems$/;"	S
+Solving Stiff Equations	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^            <h1 class="title">Solving Stiff Equations<\/h1>$/;"	h
+Solving the ODEs:	DiffEqTutorials.jl/html/models/03-diffeqbio_I_introduction.html	/^<h2>Solving the ODEs:<\/h2>$/;"	i
+Speeding Up Jacobian Calculations	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h2>Speeding Up Jacobian Calculations<\/h2>$/;"	i
+Steady states and stability of a biochemical reaction network.	DiffEqTutorials.jl/html/models/04b-diffeqbio_III_steadystates.html	/^<h3>Steady states and stability of a biochemical reaction network.<\/h3>$/;"	j
+Stochastic Simulation Algorithms &#40;SSAs&#41; for Stochastic Chemical Kinetics	DiffEqTutorials.jl/html/models/03-diffeqbio_I_introduction.html	/^<h2>Stochastic Simulation Algorithms &#40;SSAs&#41; for Stochastic Chemical Kinetics<\/h2>$/;"	i
+Summary	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h2>Summary<\/h2>$/;"	i
+Sundials-Specific Handling	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h2>Sundials-Specific Handling<\/h2>$/;"	i
+Symplectic Integration	DiffEqTutorials.jl/html/models/01-classical_physics.html	/^<h3>Symplectic Integration<\/h3>$/;"	j
+Systems of ODEs: The Lorenz Equation	DiffEqTutorials.jl/html/introduction/01-ode_introduction.html	/^<h3>Systems of ODEs: The Lorenz Equation<\/h3>$/;"	j
+Systems of ODEs: The Lorenz Equation	DiffEqTutorials.jl/markdown/introduction/01-ode_introduction.md	/^### Systems of ODEs: The Lorenz Equation$/;"	S
+Table of Contents	DiffEqTutorials.jl/README.md	/^## Table of Contents$/;"	s
+Test	DiffEqTutorials.jl/html/test.html	/^            <h1 class="title">Test<\/h1>$/;"	h
+The Beeler-Reuter Model	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h3>The Beeler-Reuter Model<\/h3>$/;"	j
+The Brusselator	DiffEqTutorials.jl/html/models/04b-diffeqbio_III_steadystates.html	/^<h3>The Brusselator<\/h3>$/;"	j
+The CUDA Code	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h3>The CUDA Code<\/h3>$/;"	j
+The Outer Solar System	DiffEqTutorials.jl/html/models/07-outer_solar_system.html	/^            <h1 class="title">The Outer Solar System<\/h1>$/;"	h
+The Recommended Methods	DiffEqTutorials.jl/html/introduction/02-choosing_algs.html	/^<h2>The Recommended Methods<\/h2>$/;"	i
+The Recommended Methods	DiffEqTutorials.jl/markdown/introduction/02-choosing_algs.md	/^## The Recommended Methods$/;"	s
+The Rush-Larsen Method	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h3>The Rush-Larsen Method<\/h3>$/;"	j
+The State Structure	DiffEqTutorials.jl/html/advanced/01-beeler_reuter.html	/^<h3>The State Structure<\/h3>$/;"	j
+Thus ModelingToolkit.jl can utilize existing numerical code on symbolic codes	DiffEqTutorials.jl/markdown/ode_extras/01-ModelingToolkit.md	/^#### Thus ModelingToolkit.jl can utilize existing numerical code on symbolic codes$/;"	t
+Unit Checked Arithmetic via Unitful.jl	DiffEqTutorials.jl/html/type_handling/03-unitful.html	/^            <h1 class="title">Unit Checked Arithmetic via Unitful.jl<\/h1>$/;"	h
+Use Accelerator Hardware	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Use Accelerator Hardware<\/h3>$/;"	j
+Using Structured Matrix Types	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h2>Using Structured Matrix Types<\/h2>$/;"	i
+Using Unitful	DiffEqTutorials.jl/html/type_handling/03-unitful.html	/^<h2>Using Unitful<\/h2>$/;"	i
+Using Unitful with DifferentialEquations.jl	DiffEqTutorials.jl/html/type_handling/03-unitful.html	/^<h2>Using Unitful with DifferentialEquations.jl<\/h2>$/;"	i
+Video Tutorial	DiffEqTutorials.jl/README.md	/^## Video Tutorial$/;"	s
+We recommend writing the "high-level" code first, and iteratively optimizing it!	DiffEqTutorials.jl/markdown/introduction/03-optimizing_diffeq_code.md	/^#### We recommend writing the "high-level" code first, and iteratively optimizing it!$/;"	t
+What information can be queried from the reaction_network:	DiffEqTutorials.jl/html/models/03-diffeqbio_I_introduction.html	/^<h2>What information can be queried from the reaction_network:<\/h2>$/;"	i
+Writing Efficient Code	DiffEqTutorials.jl/html/advanced/02-advanced_ODE_solving.html	/^<h3>Writing Efficient Code<\/h3>$/;"	j
+a	DiffEqTutorials.jl/templates/skeleton_css.css	/^a {$/;"	s
+a:active	DiffEqTutorials.jl/templates/skeleton_css.css	/^a:active,$/;"	s
+a:hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^a:hover {$/;"	s
+abbr[title]	DiffEqTutorials.jl/templates/skeleton_css.css	/^abbr[title] {$/;"	s
+article	DiffEqTutorials.jl/templates/skeleton_css.css	/^article,$/;"	s
+aside	DiffEqTutorials.jl/templates/skeleton_css.css	/^aside,$/;"	s
+audio	DiffEqTutorials.jl/templates/skeleton_css.css	/^audio,$/;"	s
+audio:not([controls] )	DiffEqTutorials.jl/templates/skeleton_css.css	/^audio:not([controls]) {$/;"	s
+b	DiffEqTutorials.jl/templates/skeleton_css.css	/^b,$/;"	s
+blockquote	DiffEqTutorials.jl/templates/skeleton_css.css	/^blockquote,$/;"	s
+body	DiffEqTutorials.jl/templates/skeleton_css.css	/^body {$/;"	s
+button	DiffEqTutorials.jl/templates/skeleton_css.css	/^button {$/;"	s
+button	DiffEqTutorials.jl/templates/skeleton_css.css	/^button,$/;"	s
+button.button-primary	DiffEqTutorials.jl/templates/skeleton_css.css	/^button.button-primary,$/;"	c
+button.button-primary:focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^button.button-primary:focus,$/;"	c
+button.button-primary:hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^button.button-primary:hover,$/;"	c
+button::-moz-focus-inner	DiffEqTutorials.jl/templates/skeleton_css.css	/^button::-moz-focus-inner,$/;"	s
+button:focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^button:focus,$/;"	s
+button:hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^button:hover,$/;"	s
+button[disabled]	DiffEqTutorials.jl/templates/skeleton_css.css	/^button[disabled],$/;"	s
+canvas	DiffEqTutorials.jl/templates/skeleton_css.css	/^canvas,$/;"	s
+code	DiffEqTutorials.jl/templates/skeleton_css.css	/^code,$/;"	s
+details	DiffEqTutorials.jl/templates/skeleton_css.css	/^details,$/;"	s
+dfn	DiffEqTutorials.jl/templates/skeleton_css.css	/^dfn {$/;"	s
+div.title	DiffEqTutorials.jl/templates/skeleton_css.css	/^div.title {text-align: center;}$/;"	c
+dl	DiffEqTutorials.jl/templates/skeleton_css.css	/^dl,$/;"	s
+fieldset	DiffEqTutorials.jl/templates/skeleton_css.css	/^fieldset {$/;"	s
+figcaption	DiffEqTutorials.jl/templates/skeleton_css.css	/^figcaption,$/;"	s
+figure	DiffEqTutorials.jl/templates/skeleton_css.css	/^figure {$/;"	s
+figure	DiffEqTutorials.jl/templates/skeleton_css.css	/^figure,$/;"	s
+footer	DiffEqTutorials.jl/templates/skeleton_css.css	/^footer,$/;"	s
+form	DiffEqTutorials.jl/templates/skeleton_css.css	/^form {$/;"	s
+h1	DiffEqTutorials.jl/templates/skeleton_css.css	/^h1 { font-size: 3.6rem; line-height: 1.2;  letter-spacing: -.1rem;}$/;"	s
+h1	DiffEqTutorials.jl/templates/skeleton_css.css	/^h1 {$/;"	s
+h1	DiffEqTutorials.jl/templates/skeleton_css.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h1.title	DiffEqTutorials.jl/templates/skeleton_css.css	/^h1.title {margin-top : 20px}$/;"	c
+h2	DiffEqTutorials.jl/templates/skeleton_css.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h2	DiffEqTutorials.jl/templates/skeleton_css.css	/^h2 { font-size: 3.4rem; line-height: 1.25; letter-spacing: -.1rem; }$/;"	s
+h3	DiffEqTutorials.jl/templates/skeleton_css.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h3	DiffEqTutorials.jl/templates/skeleton_css.css	/^h3 { font-size: 3.2rem; line-height: 1.3;  letter-spacing: -.1rem; }$/;"	s
+h4	DiffEqTutorials.jl/templates/skeleton_css.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h4	DiffEqTutorials.jl/templates/skeleton_css.css	/^h4 { font-size: 2.8rem; line-height: 1.35; letter-spacing: -.08rem; }$/;"	s
+h5	DiffEqTutorials.jl/templates/skeleton_css.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h5	DiffEqTutorials.jl/templates/skeleton_css.css	/^h5 { font-size: 2.4rem; line-height: 1.5;  letter-spacing: -.05rem; }$/;"	s
+h6	DiffEqTutorials.jl/templates/skeleton_css.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h6	DiffEqTutorials.jl/templates/skeleton_css.css	/^h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }$/;"	s
+header	DiffEqTutorials.jl/templates/skeleton_css.css	/^header,$/;"	s
+hgroup	DiffEqTutorials.jl/templates/skeleton_css.css	/^hgroup,$/;"	s
+hidden	DiffEqTutorials.jl/templates/skeleton_css.css	/^[hidden],$/;"	s
+hr	DiffEqTutorials.jl/templates/skeleton_css.css	/^hr {$/;"	s
+html	DiffEqTutorials.jl/templates/skeleton_css.css	/^html {$/;"	s
+html input[disabled]	DiffEqTutorials.jl/templates/skeleton_css.css	/^html input[disabled] {$/;"	s
+html input[type="button"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^html input[type="button"], \/* 1 *\/$/;"	s
+img	DiffEqTutorials.jl/templates/skeleton_css.css	/^img {$/;"	s
+img	DiffEqTutorials.jl/templates/skeleton_css.css	/^img {max-width : 100%}$/;"	s
+input	DiffEqTutorials.jl/templates/skeleton_css.css	/^input {$/;"	s
+input	DiffEqTutorials.jl/templates/skeleton_css.css	/^input,$/;"	s
+input::-moz-focus-inner	DiffEqTutorials.jl/templates/skeleton_css.css	/^input::-moz-focus-inner {$/;"	s
+input[type="button"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="button"] {$/;"	s
+input[type="button"] .button-primary	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="button"].button-primary {$/;"	c
+input[type="button"] .button-primary:focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="button"].button-primary:focus {$/;"	c
+input[type="button"] .button-primary:hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="button"].button-primary:hover,$/;"	c
+input[type="button"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="button"]:focus {$/;"	s
+input[type="button"] :hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="button"]:hover,$/;"	s
+input[type="checkbox"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="checkbox"],$/;"	s
+input[type="email"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="email"],$/;"	s
+input[type="email"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="email"]:focus,$/;"	s
+input[type="number"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="number"],$/;"	s
+input[type="number"] ::-webkit-inner-spin-button	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="number"]::-webkit-inner-spin-button,$/;"	s
+input[type="number"] ::-webkit-outer-spin-button	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="number"]::-webkit-outer-spin-button {$/;"	s
+input[type="number"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="number"]:focus,$/;"	s
+input[type="password"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="password"],$/;"	s
+input[type="password"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="password"]:focus,$/;"	s
+input[type="radio"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="radio"] {$/;"	s
+input[type="reset"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="reset"],$/;"	s
+input[type="reset"] .button-primary	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="reset"].button-primary,$/;"	c
+input[type="reset"] .button-primary:focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="reset"].button-primary:focus,$/;"	c
+input[type="reset"] .button-primary:hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="reset"].button-primary:hover,$/;"	c
+input[type="reset"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="reset"]:focus,$/;"	s
+input[type="reset"] :hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="reset"]:hover,$/;"	s
+input[type="search"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="search"] {$/;"	s
+input[type="search"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="search"],$/;"	s
+input[type="search"] ::-webkit-search-cancel-button	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="search"]::-webkit-search-cancel-button,$/;"	s
+input[type="search"] ::-webkit-search-decoration	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="search"]::-webkit-search-decoration {$/;"	s
+input[type="search"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="search"]:focus,$/;"	s
+input[type="submit"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="submit"] {$/;"	s
+input[type="submit"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="submit"],$/;"	s
+input[type="submit"] .button-primary	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="submit"].button-primary,$/;"	c
+input[type="submit"] .button-primary:focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="submit"].button-primary:focus,$/;"	c
+input[type="submit"] .button-primary:hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="submit"].button-primary:hover,$/;"	c
+input[type="submit"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="submit"]:focus,$/;"	s
+input[type="submit"] :hover	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="submit"]:hover,$/;"	s
+input[type="tel"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="tel"],$/;"	s
+input[type="tel"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="tel"]:focus,$/;"	s
+input[type="text"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="text"],$/;"	s
+input[type="text"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="text"]:focus,$/;"	s
+input[type="url"]	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="url"],$/;"	s
+input[type="url"] :focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^input[type="url"]:focus,$/;"	s
+kbd	DiffEqTutorials.jl/templates/skeleton_css.css	/^kbd,$/;"	s
+label	DiffEqTutorials.jl/templates/skeleton_css.css	/^label,$/;"	s
+label > .label-body	DiffEqTutorials.jl/templates/skeleton_css.css	/^label > .label-body {$/;"	c
+legend	DiffEqTutorials.jl/templates/skeleton_css.css	/^legend {$/;"	s
+li > p	DiffEqTutorials.jl/templates/skeleton_css.css	/^li > p {margin : 0;}$/;"	s
+main	DiffEqTutorials.jl/templates/skeleton_css.css	/^main,$/;"	s
+mark	DiffEqTutorials.jl/templates/skeleton_css.css	/^mark {$/;"	s
+menu	DiffEqTutorials.jl/templates/skeleton_css.css	/^menu,$/;"	s
+nav	DiffEqTutorials.jl/templates/skeleton_css.css	/^nav,$/;"	s
+ol	DiffEqTutorials.jl/templates/skeleton_css.css	/^ol {$/;"	s
+ol	DiffEqTutorials.jl/templates/skeleton_css.css	/^ol,$/;"	s
+ol ol	DiffEqTutorials.jl/templates/skeleton_css.css	/^ol ol,$/;"	s
+ol ul	DiffEqTutorials.jl/templates/skeleton_css.css	/^ol ul {$/;"	s
+optgroup	DiffEqTutorials.jl/templates/skeleton_css.css	/^optgroup {$/;"	s
+optgroup	DiffEqTutorials.jl/templates/skeleton_css.css	/^optgroup,$/;"	s
+p	DiffEqTutorials.jl/templates/skeleton_css.css	/^p {$/;"	s
+p	DiffEqTutorials.jl/templates/skeleton_css.css	/^p,$/;"	s
+pre	DiffEqTutorials.jl/templates/skeleton_css.css	/^pre {$/;"	s
+pre	DiffEqTutorials.jl/templates/skeleton_css.css	/^pre,$/;"	s
+pre.code	DiffEqTutorials.jl/templates/skeleton_css.css	/^pre.code {$/;"	c
+pre.hljl	DiffEqTutorials.jl/templates/skeleton_css.css	/^pre.hljl {$/;"	c
+pre.julia-error	DiffEqTutorials.jl/templates/skeleton_css.css	/^pre.julia-error {$/;"	c
+pre.output	DiffEqTutorials.jl/templates/skeleton_css.css	/^pre.output {$/;"	c
+progress	DiffEqTutorials.jl/templates/skeleton_css.css	/^progress,$/;"	s
+samp	DiffEqTutorials.jl/templates/skeleton_css.css	/^samp {$/;"	s
+section	DiffEqTutorials.jl/templates/skeleton_css.css	/^section,$/;"	s
+select	DiffEqTutorials.jl/templates/skeleton_css.css	/^select {$/;"	s
+select	DiffEqTutorials.jl/templates/skeleton_css.css	/^select,$/;"	s
+select:focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^select:focus {$/;"	s
+small	DiffEqTutorials.jl/templates/skeleton_css.css	/^small {$/;"	s
+strong	DiffEqTutorials.jl/templates/skeleton_css.css	/^strong {$/;"	s
+sub	DiffEqTutorials.jl/templates/skeleton_css.css	/^sub {$/;"	s
+sub	DiffEqTutorials.jl/templates/skeleton_css.css	/^sub,$/;"	s
+summary	DiffEqTutorials.jl/templates/skeleton_css.css	/^summary {$/;"	s
+sup	DiffEqTutorials.jl/templates/skeleton_css.css	/^sup {$/;"	s
+svg:not(:root)	DiffEqTutorials.jl/templates/skeleton_css.css	/^svg:not(:root) {$/;"	s
+table	DiffEqTutorials.jl/templates/skeleton_css.css	/^table {$/;"	s
+table	DiffEqTutorials.jl/templates/skeleton_css.css	/^table,$/;"	s
+td	DiffEqTutorials.jl/templates/skeleton_css.css	/^td {$/;"	s
+td	DiffEqTutorials.jl/templates/skeleton_css.css	/^td,$/;"	s
+td:first-child	DiffEqTutorials.jl/templates/skeleton_css.css	/^td:first-child {$/;"	s
+td:last-child	DiffEqTutorials.jl/templates/skeleton_css.css	/^td:last-child {$/;"	s
+template	DiffEqTutorials.jl/templates/skeleton_css.css	/^template {$/;"	s
+textarea	DiffEqTutorials.jl/templates/skeleton_css.css	/^textarea {$/;"	s
+textarea	DiffEqTutorials.jl/templates/skeleton_css.css	/^textarea,$/;"	s
+textarea:focus	DiffEqTutorials.jl/templates/skeleton_css.css	/^textarea:focus,$/;"	s
+th	DiffEqTutorials.jl/templates/skeleton_css.css	/^th {$/;"	s
+th	DiffEqTutorials.jl/templates/skeleton_css.css	/^th,$/;"	s
+th:first-child	DiffEqTutorials.jl/templates/skeleton_css.css	/^th:first-child,$/;"	s
+th:last-child	DiffEqTutorials.jl/templates/skeleton_css.css	/^th:last-child,$/;"	s
+thead th	DiffEqTutorials.jl/templates/skeleton_css.css	/^thead th {$/;"	s
+tr:nth-child(odd)	DiffEqTutorials.jl/templates/skeleton_css.css	/^tr:nth-child(odd){$/;"	s
+ul	DiffEqTutorials.jl/templates/skeleton_css.css	/^ul {$/;"	s
+ul	DiffEqTutorials.jl/templates/skeleton_css.css	/^ul,$/;"	s
+ul ol	DiffEqTutorials.jl/templates/skeleton_css.css	/^ul ol,$/;"	s
+ul ul	DiffEqTutorials.jl/templates/skeleton_css.css	/^ul ul,$/;"	s
+video	DiffEqTutorials.jl/templates/skeleton_css.css	/^video {$/;"	s
