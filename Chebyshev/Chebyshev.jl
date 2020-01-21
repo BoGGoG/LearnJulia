@@ -1,6 +1,6 @@
 module Chebyshev
 using LinearAlgebra
-export chebGrid, chebGridPoint, chebT, chebCardinal, coeffsToFunction
+export chebGrid, chebGridPoint, chebT, chebCardinal, coeffsToFunction, derivative
 
 function chebGridPoint(i::Int, N::Int)
     return cos(Float64(i)*π / Float64(N))
@@ -13,12 +13,6 @@ function chebGrid(N::Int)
 end
 
 function chebT(n::Int)
-    # n < 0 && error("n must be >= 0")
-    # n == 0 && return returnOne
-    # n == 1 && return returnX
-    # return 2*returnX*chebT(n-1) - chebT(n-2)
-    #
-
     if n < 0
         error("n must be >= 0")
     elseif n == 0
@@ -56,6 +50,8 @@ function chebCardinal(j::Int, grid::Array)
     return x -> factor * foo(x)
 end
 
+"""from Chebyshev coefficients return function that can
+be called for any argument (in intervall -1..1)"""
 function coeffsToFunction(coeffs::Array, grid::Array)
     N = length(grid) - 1
     foo = x -> coeffs[0 + 1] * chebCardinal(0, grid)(x)
@@ -65,6 +61,24 @@ function coeffsToFunction(coeffs::Array, grid::Array)
         end
     end
     return foo
+end
+
+function dijValues(i::Int, j::Int, grid::Array)
+    N = length(grid) - 1
+    i == 1 && j == 1 && return (1 + Float64(2*(N^2)))/6.0
+    i == N + 1 && j == N + 1 && return -(1 + Float64(2*(N^2)))/6.0
+    i == j && j > 1 && j < N + 1 && return -grid[j] / (2.0 * (1.0 - grid[j]^2))
+    return (-1)^(i + j - 2) * pj(i - 1, N) / (pj(j - 1, N) * (grid[i] - grid[j]))
+end
+
+function derivative(grid; k::Int = 1)
+    N = length(grid) - 1
+    Dij = Array{Float64,2}(undef, N+1, N+1)
+    for ij in CartesianIndices(Dij)
+        i = ij[1]; j = ij[2]
+        Dij[i, j] = dijValues(i, j, grid)
+    end
+    return Dij^k
 end
 
 end
