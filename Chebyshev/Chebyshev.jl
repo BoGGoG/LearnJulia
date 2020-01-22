@@ -1,6 +1,11 @@
 module Chebyshev
 using LinearAlgebra
-export chebGrid, chebGridPoint, chebT, chebCardinal, coeffsToFunction, derivative
+export chebGrid, chebGridPoint, chebT, chebCardinal, coeffsToFunction, derivative, helloWorld
+
+function helloWorld()
+    println("Hello World! This is the Chebyshev package.")
+    return 1
+end
 
 function chebGridPoint(i::Int, N::Int)
     return cos(Float64(i)*π / Float64(N))
