@@ -41,3 +41,6 @@ Notes
 ----------------------------------------
 
 - `@show i`
+- `@testset`, `@test`, `@test_throws ErrorException("error test") fun(x)`
+- `@isapprox`, `@inferred [AllowedType] f(x)`
+- `@info "blabla in function"` and then `@test_logs`
