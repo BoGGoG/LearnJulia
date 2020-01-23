@@ -1,6 +1,6 @@
 module Chebyshev
 using LinearAlgebra
-export chebGrid, chebGridPoint, chebT, chebCardinal, coeffsToFunction, derivative, helloWorld
+export chebGrid, chebGridPoint, chebT, chebCardinal, coeffsToFunction, derivative
 
 function helloWorld()
     println("Hello World! This is the Chebyshev package.")
